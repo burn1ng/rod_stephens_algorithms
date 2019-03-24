@@ -1,5 +1,6 @@
 // finding the largest integer in array of integers
 // example of O(N) asymptotical complexity algorithm
+
 function find_largest(array) {
     let largest = array[0];
 
